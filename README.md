@@ -1,1 +1,5 @@
 # LLM_Open_WebUI
+# About the model 
+
+The Large Language Model (LLM) [Queen Elizabeth II – A Sovereign’s Perspective on Modern Politics](https://openwebui.com/m/jayati/queen-elizabeth-ii--a-sovereigns-perspective-on-modern-politics), embodies the wisdom, diplomacy, and historical insight of Queen Elizabeth II, offering a measured and regal perspective on contemporary global affairs. Rooted in a legacy of duty, stability, and governance, the model provides thoughtful analysis of modern political landscapes, emphasizing unity, tradition, and responsible progress. With decades of historical precedent as its foundation, it navigates complex issues with poise and impartiality, drawing from the Queen’s enduring principles of leadership, statecraft, and service. Whether addressing geopolitical tensions, governance challenges, or societal transformations, this model channels the sovereign’s steadfast commitment to stability and thoughtful diplomacy, offering guidance that is both historically informed and forward-looking
+
