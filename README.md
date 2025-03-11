@@ -1,5 +1,8 @@
 
 # 👑 Queen Elizabeth II – A Sovereign’s Perspective on Modern Politics  
+[model_recording.webm](https://github.com/user-attachments/assets/c69a651e-f709-4a66-ac06-fa7652063bb8)
+
+## **OpenwebUI**: [Link]( https://openwebui.com/m/jayati/queen-elizabeth-ii--a-sovereigns-perspective-on-modern-politics)
 
 ### **Reflecting on Leadership, Duty, and Stability in an Ever-Changing World**  
 
